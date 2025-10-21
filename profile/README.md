@@ -1,6 +1,6 @@
 ## 👁️ [QazSmartVision.AI](https://qazsmartvision.com)
 
-QazSmartVision.AI is a trusted provider of **computer vision** and **biometric recognition** technologies.  
+[QazSmartVision.AI](https://qazsmartvision.com) is a trusted provider of **computer vision** and **biometric recognition** technologies.  
 We deliver intelligent video analytics and AI-based solutions for government, security, and enterprise clients.
 
 ### 🔍 Our Expertise
